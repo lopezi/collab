@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="lopezi.com">
+
+    <title>Check Ethereum address balance  </title>
+    <link rel="icon" type="image/png" href="img/favicon.png" />
+
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Theme CSS -->
+    <link href="css/balance.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700" rel="stylesheet">
+    <!-- Compiled and minified CSS -->
+    <script src="js/web3.min.js"></script>
+</head>
+
+<body>
+
+    <section id="contact">
+        <div class="content" style="position:absolute; z-index:0;">
+            <div id="large-header" class="large-header">
+                <canvas id="demo-canvas"></canvas>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12"  style="display:flex; flex-direction:column; align-items: center; justify-content: center;">
+                <h1>ChΞck Ξther balancΞ</h1>
+            </div>
+        </div>
+        <div class="row col-lg-8 col-lg-offset-2">
+        <!-- Nav tabs -->
+          <ul class="nav nav-tabs" role="tablist">
+            <li role="presentation" class="active">
+                <a href="#home" aria-controls="home" role="tab" data-toggle="tab">Check balance</a>
+            </li>
+          </ul>
+
+          <!-- Tab panes -->
+          <div class="tab-content">
+            <div role="tabpanel" class="tab-pane active" id="home">
+                <div class="col-lg-12">
+                    <form name="sentMessage" id="contactForm" novalidate>
+                        <div class="row control-group">
+                            <div class="form-group col-xs-12 floating-label-form-group controls">
+                                <label>Input and ethereum address</label>
+                                <input type="text" class="form-control" placeholder="Ethereum address" id="address" required data-validation-required-message="Add an ether address.">
+                                <p class="help-block text-danger"></p>
+                            </div>
+                        </div>
+                        <br>
+                        <div class="row">
+                            <div class="form-group col-xs-12">
+                                <button type="submit" onclick="checkBalance(document.getElementById('address').value)" class="btn btn-success btn-lg">Check</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+          </div>
+        </div>
+
+
+        <div class="row">
+            <div class="col-lg-12"  style="display:flex; flex-direction:column; align-items: center; justify-content: center;">
+                <h3 style="margin-top:40px;">Your balance is: </h3>
+                <h3 id="ETHBalance" style="font-weight: bold;margin-top:0;"></h3>
+            </div>
+        </div>
+    </section>
+
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <!-- Bootstrap Core JavaScript -->
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+    <!-- Contact Form JavaScript -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <!-- Where the web3 magic happens -->
+    <script src="js/balance.js"></script>
+
+    <!-- Fancy background interaction -->
+    <script src="js/connect/TweenLite.min.js"></script>
+    <script src="js/connect/EasePack.min.js"></script>
+    <script src="js/connect/rAF.js"></script>
+    <script src="js/connect/demo-1.js"></script>
+</body>
+
+</html>
