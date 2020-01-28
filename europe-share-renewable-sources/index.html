@@ -1,0 +1,193 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+      <title>CO2 Emissions</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+      <script type="module" src="./themes/avocado.js"></script>
+    <style>
+        @import "https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css";
+        #container {
+            height: 555px;
+            min-width: 310px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        #play-controls {
+            text-align: center;
+            min-width: 310px;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 5px 0 1em 0;
+        }
+        #play-controls * {
+            display: inline-block;
+            vertical-align: middle;
+        }
+        #play-pause-button {
+            width: 30px;
+            height: 30px;
+            text-align: center;
+            font-size: 15px;
+            cursor: pointer;
+            border: 1px solid silver;
+            border-radius: 3px;
+            background: #f8f8f8;
+        }
+        #play-range {
+            margin: 2.5%;
+            width: 70%;
+        }
+        #play-output {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 60px;
+            color: gray;
+        }
+        .source {
+            text-align:center;
+            font-family: Arial, Helvetica, sans-serif;
+            width: 100%;
+            margin: 0 auto;
+        }
+        .highcharts-legend {
+            display: none;
+        }
+    </style>
+
+  </head>
+  <body>
+      <div id="container"></div>
+      <div id="play-controls">
+          <button id="play-pause-button" class="fa fa-play" title="play"></button>
+          <input id="play-range" type="range" value="0" min="0" max="20" />
+          <output id="play-output" for="play-range" name="year">1994</output>
+      </div>
+      <p class="source"><b>Source:</b> https://data.worldbank.org/</p>
+
+      <script
+              src="https://code.jquery.com/jquery-3.4.1.min.js"
+              integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+              crossorigin="anonymous"></script>
+      <script src="https://code.highcharts.com/highcharts.js"></script>
+      <script src="https://code.highcharts.com/modules/exporting.js"></script>
+
+      <script>
+          $(document).ready(function() {
+              function draw_chart() {
+                  var url="data.json";
+                  $.getJSON(url,
+                      function(data1){
+                          /** Declare options after success callback. */
+                          var options={
+                              chart: {
+                                  renderTo: 'container',
+                                  type: 'line'
+                              },
+                              xAxis:{
+                                  type: 'datetime'
+                              },
+                              yAxis: {
+                                  title: { text: 'test'}
+                              },
+                              series:[{
+                                  data:data.name[0],
+                                  name: "name"
+                              }]
+                          };
+
+                          /** Create a chart instance and pass options. */
+                          var chart = new Highcharts.Chart(options);
+                      }
+                  );
+              }
+
+          });
+          /*
+          function requestData() {
+              $.getJSON('data.json', function (data) {
+                  //var dataSequence = chart.series[0];
+                  //dataSequence.setData(data);
+
+                  options.xAxis.categories = data[0].data;
+                  options.series =data[0].data;
+
+                  console.log(data);
+                  console.log(data[0].data)
+              });
+          };
+
+
+          requestData();
+
+          */
+
+              // Initiate the chart
+
+
+
+
+
+
+              /**
+               * Update the chart. This happens either on updating (moving) the range input,
+               * or from a timer when the timeline is playing.
+               */
+              function update(increment) {
+                  var input = $('#play-range')[0],
+                      output = $('#play-output')[0];
+
+                  if (increment) {
+                      input.value = parseInt(input.value) + increment;
+                  }
+                  chart.series[0].setData(dataSequence[input.value].data); // Increment dataset (updates chart)
+                  output.innerHTML = dataSequence[input.value].name; // Output value
+                  /*if (input.value >= input.max) { // Auto-pause
+                      pause($('#play-pause-button')[0]);
+                  }*/
+              }
+
+              /**
+               * Play the timeline.
+               */
+              function play(button) {
+                  button.title = 'pause';
+                  button.className = 'fa fa-pause';
+                  chart.sequenceTimer = setInterval ( function () {
+                      update(1);
+                  }, 1000);
+
+              }
+
+              /**
+               * Pause the timeline, either when the range is ended, or when clicking the pause button.
+               * Pausing stops the timer and resets the button to play mode.
+               */
+              function pause(button) {
+                  button.title = 'play';
+                  button.className = 'fa fa-play';
+                  clearTimeout(chart.sequenceTimer);
+                  chart.sequenceTimer = undefined;
+              }
+
+              /**
+               * Toggle play and pause from the button
+               */
+              $('#play-pause-button').bind('click', function () {
+                  if (chart.sequenceTimer === undefined) {
+                      play(this);
+                  } else {
+                      pause(this);
+                  }
+              });
+
+              /**
+               * Update the chart when the input is changed
+               */
+              $('#play-range').bind('input', function () {
+                  update();
+              });
+
+      </script>
+  </body>
+</html>

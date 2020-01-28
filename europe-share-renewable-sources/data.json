@@ -1,0 +1,4442 @@
+[
+  {
+    "name": 2004,
+    "categories": "European Union - 28 countries",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 8.524,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2004,
+    "categories": "Belgium",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 1.89,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2004,
+    "categories": "Bulgaria",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 9.231,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2004,
+    "categories": "Czechia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 6.774,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2004,
+    "categories": "Denmark",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 14.84,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2004,
+    "categories": "Germany (until 1990 former territory of the FRG)",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 6.211,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2004,
+    "categories": "Estonia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 18.384,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2004,
+    "categories": "Ireland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 2.366,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2004,
+    "categories": "Greece",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 7.161,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2004,
+    "categories": "Spain",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 8.326,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2004,
+    "categories": "France",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 9.507,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2004,
+    "categories": "Croatia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 23.404,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2004,
+    "categories": "Italy",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 6.316,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2004,
+    "categories": "Cyprus",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 3.071,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2004,
+    "categories": "Latvia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 32.794,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2004,
+    "categories": "Lithuania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 17.223,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2004,
+    "categories": "Luxembourg",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 0.9,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2004,
+    "categories": "Hungary",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 4.364,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2004,
+    "categories": "Malta",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 0.102,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2004,
+    "categories": "Netherlands",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 2.03,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2004,
+    "categories": "Austria",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 22.554,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2004,
+    "categories": "Poland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 6.914,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2004,
+    "categories": "Portugal",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 19.209,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2004,
+    "categories": "Romania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 16.811,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2004,
+    "categories": "Slovenia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 16.134,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2004,
+    "categories": "Slovakia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 6.391,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2004,
+    "categories": "Finland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 29.251,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2004,
+    "categories": "Sweden",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 38.677,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2004,
+    "categories": "United Kingdom",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 0.907,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2004,
+    "categories": "Norway",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 58.454,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2004,
+    "categories": "Montenegro",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": ":",
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2004,
+    "categories": "North Macedonia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 15.702,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2004,
+    "categories": "Albania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 29.62,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2004,
+    "categories": "Serbia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 12.724,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2004,
+    "categories": "Turkey",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 16.151,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2004,
+    "categories": "Kosovo (under United Nations Security Council Resolution 1244/99)",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 20.541,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2004,
+    "categories": "Iceland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": ":",
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2005,
+    "categories": "European Union - 28 countries",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 9.107,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2005,
+    "categories": "Belgium",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 2.332,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2005,
+    "categories": "Bulgaria",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 9.173,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2005,
+    "categories": "Czechia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 7.115,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2005,
+    "categories": "Denmark",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 15.955,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2005,
+    "categories": "Germany (until 1990 former territory of the FRG)",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 7.175,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2005,
+    "categories": "Estonia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 17.421,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2005,
+    "categories": "Ireland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 2.812,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2005,
+    "categories": "Greece",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 7.277,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2005,
+    "categories": "Spain",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 8.43,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2005,
+    "categories": "France",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 9.598,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2005,
+    "categories": "Croatia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 23.691,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2005,
+    "categories": "Italy",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 7.549,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2005,
+    "categories": "Cyprus",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 3.131,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2005,
+    "categories": "Latvia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 32.264,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2005,
+    "categories": "Lithuania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 16.769,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2005,
+    "categories": "Luxembourg",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 1.404,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2005,
+    "categories": "Hungary",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 6.931,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2005,
+    "categories": "Malta",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 0.123,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2005,
+    "categories": "Netherlands",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 2.478,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2005,
+    "categories": "Austria",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 24.378,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2005,
+    "categories": "Poland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 6.9,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2005,
+    "categories": "Portugal",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 19.526,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2005,
+    "categories": "Romania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 17.571,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2005,
+    "categories": "Slovenia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 16.002,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2005,
+    "categories": "Slovakia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 6.36,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2005,
+    "categories": "Finland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 28.831,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2005,
+    "categories": "Sweden",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 40.72,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2005,
+    "categories": "United Kingdom",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 1.116,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2005,
+    "categories": "Norway",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 60.114,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2005,
+    "categories": "Montenegro",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 35.906,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2005,
+    "categories": "North Macedonia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 16.466,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2005,
+    "categories": "Albania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 31.367,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2005,
+    "categories": "Serbia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 14.257,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2005,
+    "categories": "Turkey",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 15.521,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2005,
+    "categories": "Kosovo (under United Nations Security Council Resolution 1244/99)",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 19.773,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2005,
+    "categories": "Iceland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": ":",
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2006,
+    "categories": "European Union - 28 countries",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 9.685,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2006,
+    "categories": "Belgium",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 2.633,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2006,
+    "categories": "Bulgaria",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 9.415,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2006,
+    "categories": "Czechia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 7.363,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2006,
+    "categories": "Denmark",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 16.335,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2006,
+    "categories": "Germany (until 1990 former territory of the FRG)",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 8.477,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2006,
+    "categories": "Estonia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 15.965,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2006,
+    "categories": "Ireland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 3.03,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2006,
+    "categories": "Greece",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 7.458,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2006,
+    "categories": "Spain",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 9.142,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2006,
+    "categories": "France",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 9.336,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2006,
+    "categories": "Croatia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 22.668,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2006,
+    "categories": "Italy",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 8.328,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2006,
+    "categories": "Cyprus",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 3.263,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2006,
+    "categories": "Latvia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 31.141,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2006,
+    "categories": "Lithuania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 16.889,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2006,
+    "categories": "Luxembourg",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 1.471,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2006,
+    "categories": "Hungary",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 7.433,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2006,
+    "categories": "Malta",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 0.149,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2006,
+    "categories": "Netherlands",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 2.778,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2006,
+    "categories": "Austria",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 26.34,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2006,
+    "categories": "Poland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 6.888,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2006,
+    "categories": "Portugal",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 20.786,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2006,
+    "categories": "Romania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 17.096,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2006,
+    "categories": "Slovenia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 15.586,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2006,
+    "categories": "Slovakia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 6.584,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2006,
+    "categories": "Finland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 30.061,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2006,
+    "categories": "Sweden",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 42.447,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2006,
+    "categories": "United Kingdom",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 1.337,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2006,
+    "categories": "Norway",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 60.513,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2006,
+    "categories": "Montenegro",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 35.003,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2006,
+    "categories": "North Macedonia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 16.527,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2006,
+    "categories": "Albania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 32.07,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2006,
+    "categories": "Serbia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 14.542,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2006,
+    "categories": "Turkey",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 14.051,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2006,
+    "categories": "Kosovo (under United Nations Security Council Resolution 1244/99)",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 19.511,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2006,
+    "categories": "Iceland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": ":",
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2007,
+    "categories": "European Union - 28 countries",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 10.616,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2007,
+    "categories": "Belgium",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 3.101,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2007,
+    "categories": "Bulgaria",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 9.098,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2007,
+    "categories": "Czechia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 7.895,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2007,
+    "categories": "Denmark",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 17.748,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2007,
+    "categories": "Germany (until 1990 former territory of the FRG)",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 10.054,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2007,
+    "categories": "Estonia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 17.046,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2007,
+    "categories": "Ireland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 3.455,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2007,
+    "categories": "Greece",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 8.249,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2007,
+    "categories": "Spain",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 9.655,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2007,
+    "categories": "France",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 10.241,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2007,
+    "categories": "Croatia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 22.161,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2007,
+    "categories": "Italy",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 9.807,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2007,
+    "categories": "Cyprus",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 4.004,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2007,
+    "categories": "Latvia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 29.615,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2007,
+    "categories": "Lithuania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 16.483,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2007,
+    "categories": "Luxembourg",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 2.729,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2007,
+    "categories": "Hungary",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 8.575,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2007,
+    "categories": "Malta",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 0.177,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2007,
+    "categories": "Netherlands",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 3.298,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2007,
+    "categories": "Austria",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 28.179,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2007,
+    "categories": "Poland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 6.93,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2007,
+    "categories": "Portugal",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 21.924,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2007,
+    "categories": "Romania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 18.195,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2007,
+    "categories": "Slovenia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 15.609,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2007,
+    "categories": "Slovakia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 7.766,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2007,
+    "categories": "Finland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 29.576,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2007,
+    "categories": "Sweden",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 43.929,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2007,
+    "categories": "United Kingdom",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 1.603,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2007,
+    "categories": "Norway",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 60.335,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2007,
+    "categories": "Montenegro",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 33.146,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2007,
+    "categories": "North Macedonia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 14.976,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2007,
+    "categories": "Albania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 32.657,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2007,
+    "categories": "Serbia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 14.327,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2007,
+    "categories": "Turkey",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 13.206,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2007,
+    "categories": "Kosovo (under United Nations Security Council Resolution 1244/99)",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 18.812,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2007,
+    "categories": "Iceland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": ":",
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2008,
+    "categories": "European Union - 28 countries",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 11.368,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2008,
+    "categories": "Belgium",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 3.59,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2008,
+    "categories": "Bulgaria",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 10.345,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2008,
+    "categories": "Czechia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 8.674,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2008,
+    "categories": "Denmark",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 18.545,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2008,
+    "categories": "Germany (until 1990 former territory of the FRG)",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 10.088,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2008,
+    "categories": "Estonia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 18.643,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2008,
+    "categories": "Ireland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 3.929,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2008,
+    "categories": "Greece",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 8.183,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2008,
+    "categories": "Spain",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 10.737,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2008,
+    "categories": "France",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 11.187,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2008,
+    "categories": "Croatia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 21.986,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2008,
+    "categories": "Italy",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 11.492,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2008,
+    "categories": "Cyprus",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 5.134,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2008,
+    "categories": "Latvia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 29.811,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2008,
+    "categories": "Lithuania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 17.824,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2008,
+    "categories": "Luxembourg",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 2.815,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2008,
+    "categories": "Hungary",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 8.564,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2008,
+    "categories": "Malta",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 0.195,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2008,
+    "categories": "Netherlands",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 3.596,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2008,
+    "categories": "Austria",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 28.856,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2008,
+    "categories": "Poland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 7.713,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2008,
+    "categories": "Portugal",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 22.943,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2008,
+    "categories": "Romania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 20.204,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2008,
+    "categories": "Slovenia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 14.995,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2008,
+    "categories": "Slovakia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 7.723,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2008,
+    "categories": "Finland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 31.362,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2008,
+    "categories": "Sweden",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 44.666,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2008,
+    "categories": "United Kingdom",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 2.693,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2008,
+    "categories": "Norway",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 61.853,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2008,
+    "categories": "Montenegro",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 32.486,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2008,
+    "categories": "North Macedonia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 15.555,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2008,
+    "categories": "Albania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 32.448,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2008,
+    "categories": "Serbia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 15.888,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2008,
+    "categories": "Turkey",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 13.529,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2008,
+    "categories": "Kosovo (under United Nations Security Council Resolution 1244/99)",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 18.429,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2008,
+    "categories": "Iceland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": ":",
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2009,
+    "categories": "European Union - 28 countries",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 12.622,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2009,
+    "categories": "Belgium",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 4.715,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2009,
+    "categories": "Bulgaria",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 12.005,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2009,
+    "categories": "Czechia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 9.978,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2009,
+    "categories": "Denmark",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 19.95,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2009,
+    "categories": "Germany (until 1990 former territory of the FRG)",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 10.87,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2009,
+    "categories": "Estonia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 22.931,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2009,
+    "categories": "Ireland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 5.177,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2009,
+    "categories": "Greece",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 8.731,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2009,
+    "categories": "Spain",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 12.963,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2009,
+    "categories": "France",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 12.216,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2009,
+    "categories": "Croatia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 23.597,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2009,
+    "categories": "Italy",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 12.775,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2009,
+    "categories": "Cyprus",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 5.925,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2009,
+    "categories": "Latvia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 34.317,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2009,
+    "categories": "Lithuania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 19.798,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2009,
+    "categories": "Luxembourg",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 2.94,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2009,
+    "categories": "Hungary",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 11.673,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2009,
+    "categories": "Malta",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 0.221,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2009,
+    "categories": "Netherlands",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 4.266,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2009,
+    "categories": "Austria",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 31.02,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2009,
+    "categories": "Poland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 8.661,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2009,
+    "categories": "Portugal",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 24.421,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2009,
+    "categories": "Romania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 22.157,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2009,
+    "categories": "Slovenia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 20.147,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2009,
+    "categories": "Slovakia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 9.368,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2009,
+    "categories": "Finland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 31.343,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2009,
+    "categories": "Sweden",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 47.88,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2009,
+    "categories": "United Kingdom",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 3.342,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2009,
+    "categories": "Norway",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 64.91,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2009,
+    "categories": "Montenegro",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 39.464,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2009,
+    "categories": "North Macedonia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 17.238,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2009,
+    "categories": "Albania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 31.437,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2009,
+    "categories": "Serbia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 21.024,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2009,
+    "categories": "Turkey",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 14.086,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2009,
+    "categories": "Kosovo (under United Nations Security Council Resolution 1244/99)",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 18.23,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2009,
+    "categories": "Iceland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": ":",
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2010,
+    "categories": "European Union - 28 countries",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 13.158,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2010,
+    "categories": "Belgium",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 5.643,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2010,
+    "categories": "Bulgaria",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 13.927,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2010,
+    "categories": "Czechia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 10.514,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2010,
+    "categories": "Denmark",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 21.889,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2010,
+    "categories": "Germany (until 1990 former territory of the FRG)",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 11.686,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2010,
+    "categories": "Estonia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 24.574,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2010,
+    "categories": "Ireland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 5.707,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2010,
+    "categories": "Greece",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 10.077,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2010,
+    "categories": "Spain",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 13.81,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2010,
+    "categories": "France",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 12.672,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2010,
+    "categories": "Croatia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 25.103,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2010,
+    "categories": "Italy",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 13.023,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2010,
+    "categories": "Cyprus",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 6.173,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2010,
+    "categories": "Latvia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 30.375,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2010,
+    "categories": "Lithuania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 19.64,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2010,
+    "categories": "Luxembourg",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 2.864,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2010,
+    "categories": "Hungary",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 12.742,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2010,
+    "categories": "Malta",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 0.979,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2010,
+    "categories": "Netherlands",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 3.917,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2010,
+    "categories": "Austria",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 31.199,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2010,
+    "categories": "Poland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 9.253,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2010,
+    "categories": "Portugal",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 24.165,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2010,
+    "categories": "Romania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 22.834,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2010,
+    "categories": "Slovenia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 20.42,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2010,
+    "categories": "Slovakia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 9.099,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2010,
+    "categories": "Finland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 32.441,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2010,
+    "categories": "Sweden",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 46.958,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2010,
+    "categories": "United Kingdom",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 3.782,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2010,
+    "categories": "Norway",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 61.254,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2010,
+    "categories": "Montenegro",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 40.663,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2010,
+    "categories": "North Macedonia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 16.451,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2010,
+    "categories": "Albania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 31.867,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2010,
+    "categories": "Serbia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 19.763,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2010,
+    "categories": "Turkey",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 14.013,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2010,
+    "categories": "Kosovo (under United Nations Security Council Resolution 1244/99)",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 18.23,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2010,
+    "categories": "Iceland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": ":",
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2011,
+    "categories": "European Union - 28 countries",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 13.411,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2011,
+    "categories": "Belgium",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 6.29,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2011,
+    "categories": "Bulgaria",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 14.152,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2011,
+    "categories": "Czechia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 10.945,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2011,
+    "categories": "Denmark",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 23.388,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2011,
+    "categories": "Germany (until 1990 former territory of the FRG)",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 12.47,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2011,
+    "categories": "Estonia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 25.345,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2011,
+    "categories": "Ireland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 6.646,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2011,
+    "categories": "Greece",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 11.153,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2011,
+    "categories": "Spain",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 13.223,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2011,
+    "categories": "France",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 11.016,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2011,
+    "categories": "Croatia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 25.389,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2011,
+    "categories": "Italy",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 12.881,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2011,
+    "categories": "Cyprus",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 6.261,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2011,
+    "categories": "Latvia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 33.478,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2011,
+    "categories": "Lithuania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 19.945,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2011,
+    "categories": "Luxembourg",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 2.874,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2011,
+    "categories": "Hungary",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 13.972,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2011,
+    "categories": "Malta",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 1.85,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2011,
+    "categories": "Netherlands",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 4.524,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2011,
+    "categories": "Austria",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 31.563,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2011,
+    "categories": "Poland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 10.295,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2011,
+    "categories": "Portugal",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 24.616,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2011,
+    "categories": "Romania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 21.186,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2011,
+    "categories": "Slovenia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 20.257,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2011,
+    "categories": "Slovakia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 10.348,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2011,
+    "categories": "Finland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 32.788,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2011,
+    "categories": "Sweden",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 48.245,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2011,
+    "categories": "United Kingdom",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 4.32,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2011,
+    "categories": "Norway",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 65.02,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2011,
+    "categories": "Montenegro",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 40.67,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2011,
+    "categories": "North Macedonia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 16.407,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2011,
+    "categories": "Albania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 31.187,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2011,
+    "categories": "Serbia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 19.118,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2011,
+    "categories": "Turkey",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 12.823,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2011,
+    "categories": "Kosovo (under United Nations Security Council Resolution 1244/99)",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 17.598,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2011,
+    "categories": "Iceland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": ":",
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2012,
+    "categories": "European Union - 28 countries",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 14.69,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2012,
+    "categories": "Belgium",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 7.18,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2012,
+    "categories": "Bulgaria",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 15.837,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2012,
+    "categories": "Czechia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 12.816,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2012,
+    "categories": "Denmark",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 25.466,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2012,
+    "categories": "Germany (until 1990 former territory of the FRG)",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 13.555,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2012,
+    "categories": "Estonia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 25.524,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2012,
+    "categories": "Ireland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 7.054,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2012,
+    "categories": "Greece",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 13.741,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2012,
+    "categories": "Spain",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 14.287,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2012,
+    "categories": "France",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 13.437,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2012,
+    "categories": "Croatia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 26.757,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2012,
+    "categories": "Italy",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 15.441,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2012,
+    "categories": "Cyprus",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 7.137,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2012,
+    "categories": "Latvia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 35.709,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2012,
+    "categories": "Lithuania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 21.437,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2012,
+    "categories": "Luxembourg",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 3.14,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2012,
+    "categories": "Hungary",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 15.53,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2012,
+    "categories": "Malta",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 2.862,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2012,
+    "categories": "Netherlands",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 4.659,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2012,
+    "categories": "Austria",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 32.678,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2012,
+    "categories": "Poland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 10.897,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2012,
+    "categories": "Portugal",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 24.579,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2012,
+    "categories": "Romania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 22.825,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2012,
+    "categories": "Slovenia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 20.818,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2012,
+    "categories": "Slovakia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 10.453,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2012,
+    "categories": "Finland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 34.434,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2012,
+    "categories": "Sweden",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 50.23,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2012,
+    "categories": "United Kingdom",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 4.41,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2012,
+    "categories": "Norway",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 65.55,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2012,
+    "categories": "Montenegro",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 41.531,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2012,
+    "categories": "North Macedonia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 18.128,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2012,
+    "categories": "Albania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 35.152,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2012,
+    "categories": "Serbia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 20.79,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2012,
+    "categories": "Turkey",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 13.207,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2012,
+    "categories": "Kosovo (under United Nations Security Council Resolution 1244/99)",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 18.625,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2012,
+    "categories": "Iceland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": ":",
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2013,
+    "categories": "European Union - 28 countries",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 15.378,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2013,
+    "categories": "Belgium",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 7.515,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2013,
+    "categories": "Bulgaria",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 18.898,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2013,
+    "categories": "Czechia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 13.931,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2013,
+    "categories": "Denmark",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 27.174,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2013,
+    "categories": "Germany (until 1990 former territory of the FRG)",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 13.766,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2013,
+    "categories": "Estonia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 25.324,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2013,
+    "categories": "Ireland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 7.618,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2013,
+    "categories": "Greece",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 15.326,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2013,
+    "categories": "Spain",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 15.319,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2013,
+    "categories": "France",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 14.043,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2013,
+    "categories": "Croatia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 28.04,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2013,
+    "categories": "Italy",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 16.741,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2013,
+    "categories": "Cyprus",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 8.456,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2013,
+    "categories": "Latvia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 37.037,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2013,
+    "categories": "Lithuania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 22.689,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2013,
+    "categories": "Luxembourg",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 3.531,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2013,
+    "categories": "Hungary",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 16.205,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2013,
+    "categories": "Malta",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 3.76,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2013,
+    "categories": "Netherlands",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 4.691,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2013,
+    "categories": "Austria",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 32.77,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2013,
+    "categories": "Poland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 11.368,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2013,
+    "categories": "Portugal",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 25.7,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2013,
+    "categories": "Romania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 23.886,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2013,
+    "categories": "Slovenia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 22.407,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2013,
+    "categories": "Slovakia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 10.133,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2013,
+    "categories": "Finland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 36.73,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2013,
+    "categories": "Sweden",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 50.8,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2013,
+    "categories": "United Kingdom",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 5.498,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2013,
+    "categories": "Norway",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 66.746,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2013,
+    "categories": "Montenegro",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 43.735,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2013,
+    "categories": "North Macedonia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 18.509,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2013,
+    "categories": "Albania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 33.167,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2013,
+    "categories": "Serbia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 21.095,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2013,
+    "categories": "Turkey",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 13.91,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2013,
+    "categories": "Kosovo (under United Nations Security Council Resolution 1244/99)",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 18.624,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2013,
+    "categories": "Iceland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": ":",
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2014,
+    "categories": "European Union - 28 countries",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 16.219,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2014,
+    "categories": "Belgium",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 8.032,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2014,
+    "categories": "Bulgaria",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 18.05,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2014,
+    "categories": "Czechia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 15.078,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2014,
+    "categories": "Denmark",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 29.334,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2014,
+    "categories": "Germany (until 1990 former territory of the FRG)",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 14.386,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2014,
+    "categories": "Estonia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 26.145,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2014,
+    "categories": "Ireland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 8.598,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2014,
+    "categories": "Greece",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 15.683,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2014,
+    "categories": "Spain",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 16.125,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2014,
+    "categories": "France",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 14.581,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2014,
+    "categories": "Croatia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 27.817,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2014,
+    "categories": "Italy",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 17.082,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2014,
+    "categories": "Cyprus",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 9.172,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2014,
+    "categories": "Latvia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 38.629,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2014,
+    "categories": "Lithuania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 23.593,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2014,
+    "categories": "Luxembourg",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 4.512,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2014,
+    "categories": "Hungary",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 14.618,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2014,
+    "categories": "Malta",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 4.744,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2014,
+    "categories": "Netherlands",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 5.415,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2014,
+    "categories": "Austria",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 33.653,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2014,
+    "categories": "Poland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 11.495,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2014,
+    "categories": "Portugal",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 29.508,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2014,
+    "categories": "Romania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 24.845,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2014,
+    "categories": "Slovenia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 21.539,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2014,
+    "categories": "Slovakia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 11.713,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2014,
+    "categories": "Finland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 38.78,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2014,
+    "categories": "Sweden",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 51.874,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2014,
+    "categories": "United Kingdom",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 6.737,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2014,
+    "categories": "Norway",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 69.19,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2014,
+    "categories": "Montenegro",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 44.111,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2014,
+    "categories": "North Macedonia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 19.559,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2014,
+    "categories": "Albania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 31.476,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2014,
+    "categories": "Serbia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 22.864,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2014,
+    "categories": "Turkey",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 13.596,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2014,
+    "categories": "Kosovo (under United Nations Security Council Resolution 1244/99)",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 19.544,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2014,
+    "categories": "Iceland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": ":",
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2015,
+    "categories": "European Union - 28 countries",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 16.733,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2015,
+    "categories": "Belgium",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 8.003,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2015,
+    "categories": "Bulgaria",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 18.261,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2015,
+    "categories": "Czechia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 15.073,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2015,
+    "categories": "Denmark",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 30.904,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2015,
+    "categories": "Germany (until 1990 former territory of the FRG)",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 14.901,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2015,
+    "categories": "Estonia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 28.228,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2015,
+    "categories": "Ireland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 9.108,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2015,
+    "categories": "Greece",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 15.69,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2015,
+    "categories": "Spain",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 16.228,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2015,
+    "categories": "France",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 15.012,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2015,
+    "categories": "Croatia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 28.969,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2015,
+    "categories": "Italy",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 17.525,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2015,
+    "categories": "Cyprus",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 9.929,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2015,
+    "categories": "Latvia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 37.538,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2015,
+    "categories": "Lithuania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 25.751,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2015,
+    "categories": "Luxembourg",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 5.05,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2015,
+    "categories": "Hungary",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 14.495,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2015,
+    "categories": "Malta",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 5.119,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2015,
+    "categories": "Netherlands",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 5.657,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2015,
+    "categories": "Austria",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 33.542,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2015,
+    "categories": "Poland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 11.743,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2015,
+    "categories": "Portugal",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 30.514,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2015,
+    "categories": "Romania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 24.785,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2015,
+    "categories": "Slovenia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 21.894,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2015,
+    "categories": "Slovakia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 12.882,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2015,
+    "categories": "Finland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 39.32,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2015,
+    "categories": "Sweden",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 53.009,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2015,
+    "categories": "United Kingdom",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 8.337,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2015,
+    "categories": "Norway",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 69.115,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2015,
+    "categories": "Montenegro",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 43.089,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2015,
+    "categories": "North Macedonia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 19.527,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2015,
+    "categories": "Albania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 34.387,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2015,
+    "categories": "Serbia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 21.989,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2015,
+    "categories": "Turkey",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 13.602,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2015,
+    "categories": "Kosovo (under United Nations Security Council Resolution 1244/99)",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 18.484,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2015,
+    "categories": "Iceland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": ":",
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2016,
+    "categories": "European Union - 28 countries",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 16.998,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2016,
+    "categories": "Belgium",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 8.712,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2016,
+    "categories": "Bulgaria",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 18.76,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2016,
+    "categories": "Czechia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 14.93,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2016,
+    "categories": "Denmark",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 32.029,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2016,
+    "categories": "Germany (until 1990 former territory of the FRG)",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 14.885,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2016,
+    "categories": "Estonia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 28.684,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2016,
+    "categories": "Ireland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 9.258,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2016,
+    "categories": "Greece",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 15.39,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2016,
+    "categories": "Spain",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 17.427,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2016,
+    "categories": "France",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 15.68,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2016,
+    "categories": "Croatia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 28.267,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2016,
+    "categories": "Italy",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 17.415,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2016,
+    "categories": "Cyprus",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 9.859,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2016,
+    "categories": "Latvia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 37.138,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2016,
+    "categories": "Lithuania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 25.614,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2016,
+    "categories": "Luxembourg",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 5.44,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2016,
+    "categories": "Hungary",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 14.315,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2016,
+    "categories": "Malta",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 6.208,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2016,
+    "categories": "Netherlands",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 5.827,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2016,
+    "categories": "Austria",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 33.365,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2016,
+    "categories": "Poland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 11.267,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2016,
+    "categories": "Portugal",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 30.865,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2016,
+    "categories": "Romania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 25.032,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2016,
+    "categories": "Slovenia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 21.293,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2016,
+    "categories": "Slovakia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 12.029,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2016,
+    "categories": "Finland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 39.011,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2016,
+    "categories": "Sweden",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 53.371,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2016,
+    "categories": "United Kingdom",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 8.981,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2016,
+    "categories": "Norway",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 70.163,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2016,
+    "categories": "Montenegro",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 41.558,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2016,
+    "categories": "North Macedonia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 18.044,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2016,
+    "categories": "Albania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 35.487,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2016,
+    "categories": "Serbia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 21.147,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2016,
+    "categories": "Turkey",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 13.741,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2016,
+    "categories": "Kosovo (under United Nations Security Council Resolution 1244/99)",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 24.472,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2016,
+    "categories": "Iceland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": ":",
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2017,
+    "categories": "European Union - 28 countries",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 17.479,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2017,
+    "categories": "Belgium",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 9.064,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2017,
+    "categories": "Bulgaria",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 18.701,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2017,
+    "categories": "Czechia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 14.803,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2017,
+    "categories": "Denmark",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 35.038,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2017,
+    "categories": "Germany (until 1990 former territory of the FRG)",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 15.472,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2017,
+    "categories": "Estonia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 29.127,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2017,
+    "categories": "Ireland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 10.588,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2017,
+    "categories": "Greece",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 16.951,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2017,
+    "categories": "Spain",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 17.563,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2017,
+    "categories": "France",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 16.011,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2017,
+    "categories": "Croatia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 27.28,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2017,
+    "categories": "Italy",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 18.267,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2017,
+    "categories": "Cyprus",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 10.491,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2017,
+    "categories": "Latvia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 39.019,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2017,
+    "categories": "Lithuania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 26.039,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2017,
+    "categories": "Luxembourg",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 6.286,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2017,
+    "categories": "Hungary",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 13.517,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2017,
+    "categories": "Malta",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 7.27,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2017,
+    "categories": "Netherlands",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 6.461,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2017,
+    "categories": "Austria",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 33.144,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2017,
+    "categories": "Poland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 10.964,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2017,
+    "categories": "Portugal",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 30.611,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2017,
+    "categories": "Romania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 24.454,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2017,
+    "categories": "Slovenia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 21.056,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2017,
+    "categories": "Slovakia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 11.465,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2017,
+    "categories": "Finland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 40.917,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2017,
+    "categories": "Sweden",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 54.201,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2017,
+    "categories": "United Kingdom",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 9.731,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2017,
+    "categories": "Norway",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 71.647,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2017,
+    "categories": "Montenegro",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 39.708,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2017,
+    "categories": "North Macedonia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 19.636,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2017,
+    "categories": "Albania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 34.465,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2017,
+    "categories": "Serbia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 20.287,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2017,
+    "categories": "Turkey",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 12.766,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2017,
+    "categories": "Kosovo (under United Nations Security Council Resolution 1244/99)",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 23.082,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2017,
+    "categories": "Iceland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": ":",
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2018,
+    "categories": "European Union - 28 countries",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 17.985,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2018,
+    "categories": "Belgium",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 9.423,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2018,
+    "categories": "Bulgaria",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 20.528,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2018,
+    "categories": "Czechia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 15.15,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2018,
+    "categories": "Denmark",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 36.134,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2018,
+    "categories": "Germany (until 1990 former territory of the FRG)",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 16.481,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2018,
+    "categories": "Estonia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 29.996,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2018,
+    "categories": "Ireland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 11.061,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2018,
+    "categories": "Greece",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 18.002,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2018,
+    "categories": "Spain",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 17.414,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2018,
+    "categories": "France",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 16.593,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2018,
+    "categories": "Croatia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 28.024,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2018,
+    "categories": "Italy",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 17.775,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2018,
+    "categories": "Cyprus",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 13.882,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2018,
+    "categories": "Latvia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 40.32,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2018,
+    "categories": "Lithuania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 24.448,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2018,
+    "categories": "Luxembourg",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 9.059,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2018,
+    "categories": "Hungary",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 12.489,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2018,
+    "categories": "Malta",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 7.978,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2018,
+    "categories": "Netherlands",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 7.385,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2018,
+    "categories": "Austria",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 33.426,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2018,
+    "categories": "Poland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 11.284,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2018,
+    "categories": "Portugal",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 30.322,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2018,
+    "categories": "Romania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 23.875,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2018,
+    "categories": "Slovenia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 21.149,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2018,
+    "categories": "Slovakia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 11.896,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2018,
+    "categories": "Finland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 41.162,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2018,
+    "categories": "Sweden",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 54.645,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2018,
+    "categories": "United Kingdom",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 11.017,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2018,
+    "categories": "Norway",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 72.752,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2018,
+    "categories": "Montenegro",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 38.807,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2018,
+    "categories": "North Macedonia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 18.118,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2018,
+    "categories": "Albania",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 34.865,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2018,
+    "categories": "Serbia",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 20.32,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2018,
+    "categories": "Turkey",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 13.659,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2018,
+    "categories": "Kosovo (under United Nations Security Council Resolution 1244/99)",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": 24.896,
+    "Flag and Footnotes": ""
+  },
+  {
+    "name": 2018,
+    "categories": "Iceland",
+    "NRG_BAL": "Renewable energy sources",
+    "UNIT": "Percentage",
+    "data": ":",
+    "Flag and Footnotes": ""
+  }
+]

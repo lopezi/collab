@@ -1,0 +1,128 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="apple-touch-icon" href="icon.png">
+  <!-- Place favicon.ico in the root directory -->
+
+  <link rel="stylesheet" href="css/simple-grid.min.css">
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/main.css">
+
+  <meta name="theme-color" content="#fafafa">
+</head>
+
+<body>
+  <!--[if IE]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+  <![endif]-->
+  <div class="container">
+    <div class="row">
+      <div class="col-3">
+        <div style="display: flex; flex-direction: column; width: 100%;">
+          <p class="svv-credits">Source: </p>
+          <img src="img/who.svg" width="100">
+          <p class="svv-credits" style="color: #fc6621;">Last update: </p>
+          <span style="font-size: 12px; margin: 0;text-align: left;">28 February 2020, 19:00PM, GMT UTC±00:00</span>
+        </div>
+      </div>
+      <div class="col-9 info-panel">
+        <div class="col-12" style="background: orange; margin:0; width: 100%;">
+          <h3 style="margin:0; margin-left: 10px;">Novel Coronavirus(2019-nCoV) -- Situation Report -- 28.01.2020</h3>
+        </div>
+        <div class="col-4">
+          <h3>Globally</h3>
+          <p><b>4593</b> confirmed</p>
+        </div>
+        <div class="col-4">
+          <h3>China</h3>
+          <p><b>4537</b> confirmed</p>
+          <p><b>6973</b> suspected</p>
+          <p><b>976</b> severe</p>
+          <p><b>106</b> deaths</p>
+        </div>
+        <div class="col-4">
+          <h3>Outside of China</h3>
+          <p><b>56</b> confirmed</p>
+          <p><b>14</b> countries</p>
+        </div>
+      </div>
+      <div class="col-6">
+        <!-- This content will take up 6/12 (or 1/2) of the container -->
+      </div>
+    </div>
+    <div class="row" style="margin:80px 0;">
+      <!--
+      <div class="locator-dot-wrapper" style="display: block; opacity: 1;">
+        <div class="locator-dot" style="left: 125px;top: 57px;position: fixed;"></div>
+        <div class="locator-dot sub" style="left: 125px;top: 55px;position: fixed;"></div>
+      </div>
+      -->
+      <hr>
+      <hr>
+
+      <div class="col-12">
+        <div id="container"></div>
+        <p id="accidents-number"></p>
+        <div id="play-controls">
+          <button id="play-pause-button" class="fa fa-play" title="play"></button>
+          <input id="play-range" type="range" value="0" min="0" max="7" />
+          <output id="play-output" for="play-range" name="year">2020-01-21</output>
+        </div>
+        <p style="text-align: center;">
+          <b>Instructions:</b> Drag the slider into a specific date or click play for an automatic timeline visualisation. <br>
+          Mouse hover the bubbles to check the statistics by country on a specific day.<br>
+          **Confirmed cases in China include cases confirmed in Hong Kong SAR, Macau SAR and Taipei.
+        </p>
+      </div>
+    </div>
+
+    <hr>
+    <hr>
+
+    <div class="row" style="margin:80px 0;">
+        <div class="col-12">
+          <div id="barchart"></div>
+        </div>
+    </div>
+
+
+
+    <div class="row" style="margin-top: 80px;background-color: #cccccc;">
+      <div class="col-12">
+        <p class="svv-credits">Sponsored by: </p>
+        <a href="https://lopezi.com"> <img src="img/lopezi.svg" width="82"> </a>
+      </div>
+      <p style="font-size: 12px; margin: 0;text-align: right;">v.0010001</p>
+    </div>
+  </div>
+
+
+
+  <script src="js/vendor/modernizr-3.8.0.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+  <script>window.jQuery || document.write('<script src="js/vendor/jquery-3.4.1.min.js"><\/script>')</script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/proj4js/2.3.6/proj4.js"></script>
+  <script src="https://code.highcharts.com/maps/highmaps.js"></script>
+  <script src="https://code.highcharts.com/maps/modules/exporting.js"></script>
+  <script src="https://code.highcharts.com/mapdata/custom/world-highres.js"></script>
+
+  <script src="js/plugins.js"></script>
+  <script src="js/main.js"></script>
+
+  <!-- Google Analytics: change UA-XXXXX-Y to be your site's ID. -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-53945798-1"></script>
+  <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-53945798-1');
+  </script>
+</body>
+
+</html>
