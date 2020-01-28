@@ -532,7 +532,7 @@ $(function () {
       name: 'Accident',
       color: Highcharts.getOptions().colors[3],
       showInLegend: false,
-      minSize: 3,
+      minSize: 11,
       maxSize: 55,
       data: dataSequence[0].data
     }]
