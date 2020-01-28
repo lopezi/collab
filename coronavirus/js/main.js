@@ -565,7 +565,7 @@ $(function () {
     yAxis: {
       min: 0,
       title: {
-        text: 'Number of Confirmed cases'
+        text: 'Globally confirmed cases'
       }
     },
     plotOptions: {
@@ -575,7 +575,7 @@ $(function () {
       }
     },
     series: [{
-      name: 'Total Confirmed cases',
+      name: 'Globally confirmed cases by day',
       data: [282, 314, 581, 846, 1320, 2014, 2798, 4593]
 
     }]
@@ -584,7 +584,7 @@ $(function () {
 
   chart = $('#container').highcharts();
   accidentsNumber = $('#accidents-number')[0];
-  accidentsNumber.innerHTML = dataSequence[0].total + " globally confirmed cases";
+  accidentsNumber.innerHTML = dataSequence[0].total + " Globally confirmed cases";
 
   /**
    * Update the chart. This happens either on updating (moving) the range input,
@@ -599,7 +599,7 @@ $(function () {
     }
     chart.series[1].setData(dataSequence[input.value].data); // Increment dataset (updates chart)
     output.innerHTML = dataSequence[input.value].name; // + " km/h"; // Output value
-    accidentsNumber.innerHTML = dataSequence[input.value].total + " globally confirmed cases"; // # of accidents
+    accidentsNumber.innerHTML = dataSequence[input.value].total + " Globally confirmed cases"; // # of accidents
     if (input.value >= input.max) { // Auto-pause
       pause($('#play-pause-button')[0]);
     }
