@@ -518,7 +518,7 @@ $(function () {
 
     tooltip: {
       headerFormat: '',
-      pointFormat: '<b>Country</b> {point.name} <br> <b>Cases</b> {point.z} <br> <b>Date</b> {point.date}'
+      pointFormat: '<b>País</b> {point.name} <br> <b>Casos</b> {point.z} <br> <b>Data</b> {point.date}'
     },
 
     series: [{
