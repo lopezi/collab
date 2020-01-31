@@ -545,7 +545,7 @@ $(function () {
             "lon": 101.6869,
             "z": 4
           },{
-            "date": "2020-01-28",
+            "date": "2020-01-29",
             "name": "Cambodia",
             "lat": 11.5564,
             "lon": 104.9282,
@@ -605,8 +605,130 @@ $(function () {
             "lon": 55.2708,
             "z": 4
           }
-        ]
-      }
+      ]}, {
+            "name": "2020-01-30",
+            "total": 7818,
+            "data": [
+              {
+                "date": "2020-01-30",
+                "name": "China",
+                "lat": 30.5928,
+                "lon": 114.3055,
+                "z": 7736
+              },
+              {
+                "date": "2020-01-30",
+                "name": "Japan",
+                "lat": 35.6804,
+                "lon": 139.7690,
+                "z": 11
+              },
+              {
+                "date": "2020-01-30",
+                "name": "Republic of Korea",
+                "lat": 37.5665,
+                "lon": 126.9780,
+                "z": 4
+              },
+              {
+                "date": "2020-01-30",
+                "name": "Vietnam",
+                "lat": 21.0278,
+                "lon": 105.8342,
+                "z": 2
+              }, {
+                "date": "2020-01-30",
+                "name": "Singapore",
+                "lat": 1.3521,
+                "lon": 103.8198,
+                "z": 10
+              }, {
+                "date": "2020-01-30",
+                "name": "Australia",
+                "lat": -33.8688,
+                "lon": 151.2093,
+                "z": 7
+              }, {
+                "date": "2020-01-30",
+                "name": "Malaysia",
+                "lat": 3.1390,
+                "lon": 101.6869,
+                "z": 4
+              }, {
+                "date": "2020-01-30",
+                "name": "Cambodia",
+                "lat": 11.5564,
+                "lon": 104.9282,
+                "z": 1
+              },
+              {
+                "date": "2020-01-30",
+                "name": "Thailand",
+                "lat": 13.7563,
+                "lon": 100.5018,
+                "z": 14
+              }, {
+                "date": "2020-01-30",
+                "name": "Nepal",
+                "lat": 27.7172,
+                "lon": 85.3240,
+                "z": 1
+              }, {
+                "date": "2020-01-30",
+                "name": "Sri Lanka",
+                "lat": 6.9271,
+                "lon": 79.8612,
+                "z": 1
+              },{
+                "date": "2020-01-30",
+                "name": "India",
+                "lat": 20.5937,
+                "lon": 78.9629,
+                "z": 1
+              },
+              {
+                "date": "2020-01-30",
+                "name": "USA",
+                "lat": 38.9072,
+                "lon": -77.0369,
+                "z": 5
+              },
+              {
+                "date": "2020-01-30",
+                "name": "Canada",
+                "lat": 45.4215296,
+                "lon": -75.6971931,
+                "z": 3
+              },
+              {
+                "date": "2020-01-30",
+                "name": "France",
+                "lat": 48.8566,
+                "lon": 2.3522,
+                "z": 5
+              },{
+                "date": "2020-01-30",
+                "name": "Finland",
+                "lat": 61.9241,
+                "lon": 25.7482,
+                "z": 1
+              },
+              {
+                "date": "2020-01-30",
+                "name": "Germany",
+                "lat": 52.5200,
+                "lon": 13.4050,
+                "z": 4
+              },
+              {
+                "date": "2020-01-30",
+                "name": "United Arab Emirates",
+                "lat": 25.2048,
+                "lon": 55.2708,
+                "z": 4
+              }
+            ]
+        }//end
     ];
 
   // Initiate the chart
@@ -655,7 +777,7 @@ $(function () {
       type: 'column'
     },
     title: {
-      text: 'Distribution of 2019-nCoV cases by Day'
+      text: 'Total cases of 2019-nCoV'
     },
     subtitle: {
       text: 'Source: who.int'
@@ -671,6 +793,7 @@ $(function () {
         '2020-01-27',
         '2020-01-28',
         '2020-01-29',
+        '2020-01-30',
       ],
       crosshair: true
     },
@@ -687,11 +810,11 @@ $(function () {
       }
     },
     series: [{
-      name: 'Globally confirmed cases by day',
-      data: [282, 314, 581, 846, 1320, 2014, 2798, 4593,6065]
+      name: 'Summation of number of cases',
+      data: [282, 314, 581, 846, 1320, 2014, 2798, 4593,6065,7818]
     },{
       name: 'Number of deaths',
-      data: [3, 6, 17, 25, 41, 56, 80, 106,132]
+      data: [3, 6, 17, 25, 41, 56, 80, 106,132,170]
     }]
   });
 
