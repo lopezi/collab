@@ -716,14 +716,144 @@ $(function () {
             "z": 1
           },
           {
-            "date": "2020-01-29",
+            "date": "2020-01-30",
             "name": "Alemanha",
             "lat": 52.5200,
             "lon": 13.4050,
             "z": 4
           },
           {
+            "date": "2020-01-30",
+            "name": "Emirados Arabes Unidos",
+            "lat": 25.2048,
+            "lon": 55.2708,
+            "z": 4
+          }
+        ]
+      },{
+        "name": "2020-01-31",
+        "total": 7818,
+        "data": [
+          {
+            "date": "2020-01-31",
+            "name": "China",
+            "lat": 30.5928,
+            "lon": 114.3055,
+            "z": 7736
+          },
+          {
+            "date": "2020-01-31",
+            "name": "Japão",
+            "lat": 35.6804,
+            "lon": 139.7690,
+            "z": 11
+          },
+          {
+            "date": "2020-01-31",
+            "name": "Coreia do Sul",
+            "lat": 37.5665,
+            "lon": 126.9780,
+            "z": 4
+          },
+          {
+            "date": "2020-01-31",
+            "name": "Vietname",
+            "lat": 21.0278,
+            "lon": 105.8342,
+            "z": 2
+          },{
+            "date": "2020-01-31",
+            "name": "Singapura",
+            "lat": 1.3521,
+            "lon": 103.8198,
+            "z": 10
+          },{
+            "date": "2020-01-31",
+            "name": "Australia",
+            "lat": -33.8688,
+            "lon": 151.2093,
+            "z": 7
+          },{
+            "date": "2020-01-31",
+            "name": "Malásia",
+            "lat": 3.1390,
+            "lon": 101.6869,
+            "z": 7
+          },{
+            "date": "2020-01-31",
+            "name": "Camboja",
+            "lat": 11.5564,
+            "lon": 104.9282,
+            "z": 1
+          },
+          {
+            "date": "2020-01-31",
+            "name": "Tailândia",
+            "lat": 13.7563,
+            "lon": 100.5018,
+            "z": 14
+          },{
+            "date": "2020-01-31",
+            "name": "Nepal",
+            "lat": 27.7172,
+            "lon": 85.3240,
+            "z": 1
+          },{
+            "date": "2020-01-31",
+            "name": "Sri Lanka",
+            "lat": 6.9271,
+            "lon": 79.8612,
+            "z": 1
+          },{
+            "date": "2020-01-31",
+            "name": "India",
+            "lat": 20.5937,
+            "lon": 78.9629,
+            "z": 1
+          },
+          {
+            "date": "2020-01-31",
+            "name": "Estados Unidos",
+            "lat": 38.9072,
+            "lon": -77.0369,
+            "z": 5
+          },
+          {
+            "date": "2020-01-31",
+            "name": "Canada",
+            "lat": 45.4215296,
+            "lon": -75.6971931,
+            "z": 3
+          },
+          {
+            "date": "2020-01-31",
+            "name": "França",
+            "lat": 48.8566,
+            "lon": 2.3522,
+            "z": 5
+          },
+          {
+            "date": "2020-01-31",
+            "name": "Finlandia",
+            "lat": 61.9241,
+            "lon": 25.7482,
+            "z": 1
+          },
+          {
             "date": "2020-01-29",
+            "name": "Alemanha",
+            "lat": 52.5200,
+            "lon": 13.4050,
+            "z": 4
+          },{
+            "date": "2020-01-31",
+            "name": "Italia",
+            "lat": 41.8719,
+            "lon": 12.5674,
+            "z": 2
+          },
+          {
+            "date": "2020-01-31",
             "name": "Emirados Arabes Unidos",
             "lat": 25.2048,
             "lon": 55.2708,
@@ -796,6 +926,7 @@ $(function () {
         '2020-01-28',
         '2020-01-29',
         '2020-01-30',
+        '2020-01-31',
       ],
       crosshair: true
     },
@@ -813,10 +944,10 @@ $(function () {
     },
     series: [{
       name: 'Casos confirmados globalmente por dia',
-      data: [282, 314, 581, 846, 1320, 2014, 2798, 4593,6065,7818]
+      data: [282, 314, 581, 846, 1320, 2014, 2798, 4593,6065,7818,9826]
     },{
       name: 'Somatório de fatalidades',
-      data: [3, 6, 17, 25, 41, 56, 80, 106,132,170]
+      data: [3, 6, 17, 25, 41, 56, 80, 106,132,170,213]
     }]
   });
 
@@ -839,9 +970,9 @@ $(function () {
     chart.series[1].setData(dataSequence[input.value].data); // Increment dataset (updates chart)
     output.innerHTML = dataSequence[input.value].name; // + " km/h"; // Output value
     accidentsNumber.innerHTML = dataSequence[input.value].total + " Casos confirmados globalmente"; // # of accidents
-    if (input.value >= input.max) { // Auto-pause
+    /*if (input.value >= input.max) { // Auto-pause
       pause($('#play-pause-button')[0]);
-    }
+    }*/
   }
 
   /**
