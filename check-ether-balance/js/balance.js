@@ -3,7 +3,7 @@ function checkBalance(a) {
         e.preventDefault();
     });
 
-    web3 = new Web3(new Web3.providers.HttpProvider('https://mainnet.infura.io/vl1zCFoq7Yt5ZmCV0mJS'));
+    web3 = new Web3(new Web3.providers.HttpProvider('https://mainnet.infura.io/v3/46029432230d43959613ea1e9bf4b3ae'));
 
     // Write to the console the script will run shortly.
     console.log('Getting Ethereum address info.....');
